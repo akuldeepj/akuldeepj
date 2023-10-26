@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akuldeepj&show_icons=true&locale=en&layout=compact" alt="akuldeepj" /></p>
 
-![Akuldeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuldeepj&show_icons=true&theme=transparent)
+[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/akuldeepj?cardType=level-alternate&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akuldeepj&" alt="akuldeepj" /></p>
