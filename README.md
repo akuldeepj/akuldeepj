@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Django,React**
+- 💬 Ask me about **Django,Next Js**
 
 - 📫 How to reach me **akuldeepj@gmail.com**
 
