@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akuldeepj&label=Profile%20views&color=0e75b6&style=flat" alt="akuldeepj" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🏗️ Building <a href="https://www.moboai.in" target="_blank">**MoboAI**</a>
 
 - 💬 Ask me about **Django,Next Js**
 
