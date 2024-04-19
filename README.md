@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akuldeepj&label=Profile%20views&color=0e75b6&style=flat" alt="akuldeepj" /> </p>
 
-- 🏗️ Building <a href="https://www.moboai.in" target="blank">**MoboAI**</a>
+- 🏗️  Building <a href="https://www.moboai.in" target="blank">**MoboAI**</a>
 
-- 💬 Ask me about **Django,Next Js**
+- 💬  Ask me about **Django,Next Js**
 
-- 📫 How to reach me **akuldeepj@gmail.com**
+- 📫  How to reach me **akuldeepj@gmail.com**
 
 
 
