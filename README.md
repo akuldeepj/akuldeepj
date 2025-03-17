@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akuldeep Jakkula</h1>
-<h3 align="center">A Fullstack and AI developer from India</h3>
+<h3 align="center">A Fullstack and AI developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akuldeepj&label=Profile%20views&color=0e75b6&style=flat" alt="akuldeepj" /> </p>
 
