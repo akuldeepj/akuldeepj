@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akuldeepj&label=Profile%20views&color=0e75b6&style=flat" alt="akuldeepj" /> </p>
 
-- 🏗️ Developed <a href="https://www.moboai.in" target="blank">**MoboAI**</a>
+- 🏗️ Developed <a href="https://www.newsu.live" target="blank">**NewsU**</a>
 
-- 💬 Ask me about **Django,Next Js**
+- 💬 Ask me about **Django,Next Js,FastAPI**
 
 - 📫 How to reach me **akuldeepj@gmail.com**
 
